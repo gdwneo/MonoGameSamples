@@ -1,4 +1,4 @@
-﻿// This samples draws a 3d cube using counter clockwise indices
+﻿// This samples draws a 3d cube using clockwise indices
 
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
