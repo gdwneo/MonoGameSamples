@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSample2dOrtho", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSample3dTriangle", "MonoGameSample3dTriangle\MonoGameSample3dTriangle.csproj", "{45DE8A09-013F-4727-A301-E0CDDAEE90CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSample3dCube", "MonoGameSample3dCube\MonoGameSample3dCube.csproj", "{CD342867-FF3F-4B67-9C04-4BC10CB2E198}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{45DE8A09-013F-4727-A301-E0CDDAEE90CF}.Debug|x86.Build.0 = Debug|x86
 		{45DE8A09-013F-4727-A301-E0CDDAEE90CF}.Release|x86.ActiveCfg = Release|x86
 		{45DE8A09-013F-4727-A301-E0CDDAEE90CF}.Release|x86.Build.0 = Release|x86
+		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Debug|x86.ActiveCfg = Debug|x86
+		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Debug|x86.Build.0 = Debug|x86
+		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Release|x86.ActiveCfg = Release|x86
+		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
