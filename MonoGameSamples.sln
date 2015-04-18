@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSample3dTriangle", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSample3dCube", "MonoGameSample3dCube\MonoGameSample3dCube.csproj", "{CD342867-FF3F-4B67-9C04-4BC10CB2E198}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameSample3dTexturing", "MonoGameSample3dTexturing\MonoGameSample3dTexturing.csproj", "{DD664640-ECAA-4A27-A308-63FFA6B958C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +29,10 @@ Global
 		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Debug|x86.Build.0 = Debug|x86
 		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Release|x86.ActiveCfg = Release|x86
 		{CD342867-FF3F-4B67-9C04-4BC10CB2E198}.Release|x86.Build.0 = Release|x86
+		{DD664640-ECAA-4A27-A308-63FFA6B958C8}.Debug|x86.ActiveCfg = Debug|x86
+		{DD664640-ECAA-4A27-A308-63FFA6B958C8}.Debug|x86.Build.0 = Debug|x86
+		{DD664640-ECAA-4A27-A308-63FFA6B958C8}.Release|x86.ActiveCfg = Release|x86
+		{DD664640-ECAA-4A27-A308-63FFA6B958C8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
